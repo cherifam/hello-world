@@ -1,4 +1,7 @@
 # hello-world
 My first repository
 
-My first Readme document on GitHub
+<?php
+  $string = 'Test";
+  echo '$string <br>';
+  echo "$string";
